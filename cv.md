@@ -17,3 +17,12 @@ Java, SalesForce(Apex), PHP, C, SWIFT, MySQL, SOQL, MUMPS
 
 ## Education and experience
 Kharkiv National University of Radioelectronics
+
+
+## Courses, trainings, certificates
+1. **IT STEP** - WEB developer
+2. **Vertex Academy** - JAVA professional 
+3. **Stepik** - Internet marketing
+
+## English
+pre-intermediate
