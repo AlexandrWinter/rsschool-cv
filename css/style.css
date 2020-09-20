@@ -1,0 +1,20 @@
+main{
+    width: 720px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid;
+}
+.name{
+    display: inline-block;
+}
+img{
+    width: 200px;
+    padding: 0 20px 20px 0;
+}
+h1{
+    float: right;
+    font-size: 300%;
+}
+h2{
+    font-size: 200%;
+}
